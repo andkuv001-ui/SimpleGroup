@@ -1,0 +1,6 @@
+{
+  "name": "Кейс B2B Упаковка — ZipPack (Avito Pro ×10)",
+  "description": "Интерактивный маркетинговый кейс продвижения гибкой упаковки для бизнеса (Москва и Санкт-Петербург): рост обращений ×10 (со 15 до 100–150 лидов/мес) с CPL 49,9 ₽ и выходом на 1 млн ₽/мес.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
